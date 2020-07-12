@@ -1,5 +1,4 @@
 # ClusterAnalysis
-based off the capstone course. More in depth analysis
 
 PLEASE READ
 ## Project code should be viewed here
